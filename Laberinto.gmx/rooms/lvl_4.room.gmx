@@ -401,7 +401,7 @@
     <instance objName="Mascara" x="256" y="672" name="inst_CFBCF5DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall1" x="256" y="640" name="inst_AECB268D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall1" x="224" y="640" name="inst_D43B57A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Heroe" x="240" y="560" name="inst_BE1B8DB0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Heroe" x="64" y="688" name="inst_BE1B8DB0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Malo1" x="160" y="512" name="inst_1AF7726E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Malo1" x="160" y="640" name="inst_BB45D6C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Malo1" x="64" y="608" name="inst_E308A5A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
