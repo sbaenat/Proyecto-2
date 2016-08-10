@@ -19,6 +19,7 @@
       <sprite>sprites\sprHDerecha</sprite>
       <sprite>sprites\sprHIzquierda</sprite>
     </sprites>
+    <sprite>sprites\sprVidas</sprite>
     <sprite>sprites\sprEnemigo1</sprite>
     <sprite>sprites\sprEnemigo2</sprite>
     <sprite>sprites\sprEnemigo3</sprite>
@@ -48,11 +49,11 @@
     <sprite>sprites\sprite30</sprite>
     <sprite>sprites\sprCredit</sprite>
     <sprite>sprites\sprExit</sprite>
-    <sprite>sprites\sprite33</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
     <background>background\background1</background>
+    <background>background\background2</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -87,6 +88,7 @@
     <object>objects\Back</object>
     <object>objects\Credit</object>
     <object>objects\EXIT</object>
+    <object>objects\Vidas</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Menu</room>
@@ -95,6 +97,7 @@
     <room>rooms\lvl_3</room>
     <room>rooms\lvl_4</room>
     <room>rooms\Finish</room>
+    <room>rooms\Game_Over</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
